@@ -3,6 +3,6 @@ This repository contains different data structures and algorithms implementation
 
 Number of algorithms under each category:
 
-Arrays - 1
-Miscellaneous - 2 
-Strings - 2
+Arrays - 1 <br>
+Miscellaneous - 2 <br> 
+Strings - 2 <br>
