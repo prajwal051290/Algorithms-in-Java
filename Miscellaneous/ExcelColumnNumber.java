@@ -26,7 +26,12 @@ public class Solution {
         
         while (n!=0){
             str.append(charMap.get(n%26));
-            n = n/26;
+            if (n%26==0){
+                n = n/26;
+                n=n-1;
+            }
+            else
+                n = n/26;
         }
         return str.reverse().toString();
     }
