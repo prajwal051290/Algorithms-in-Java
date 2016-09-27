@@ -14,3 +14,15 @@ public class Solution {
         return Integer.toString(n,3).matches("10*");
     }
 }
+
+/*
+ * Approach 2:
+ * 3^20 is greater than integer range.
+ * 1162261467 = 3^19
+ */
+
+public class Solution {
+    public boolean isPowerOfThree(int n) {
+        return n > 0 && 1162261467 % n == 0;
+    }
+}
