@@ -3,12 +3,13 @@ This repository contains different data structures and algorithms implementation
 
 Number of algorithms under each category:
 
-Arrays - 25 <br>
+Arrays - 31 <br>
 Bitwise - 7 <br>
-Linked-List - 10 <br>
-Miscellaneous - 17 <br> 
+Linked-List - 11 <br>
+Miscellaneous - 21 <br> 
 Queue - 1 <br>
-Strings - 15 <br>
-Tree - 19 <br>
+Stack - 1 <br>
+Strings - 19 <br>
+Tree - 20 <br>
 <br>
-Total: 94<br>
+Total: 111<br>
